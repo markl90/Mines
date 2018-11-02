@@ -3,6 +3,7 @@ Console Minsweeper
 Minesweeper made with 3 classes Board, Game & Difficulty.
 
 user can select 3 difficulty levels "easy" "medium" "hard" to begin.
+
 hidden difficulty 'custom' can be accessed typing 'c'
 
 TO RUN:
