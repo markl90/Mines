@@ -37,7 +37,7 @@ public class Game {
 			if (win && difficulty.equals("hard")) {
 				System.out.println("born minesweeper");
 			}
-			System.out.println("\nTry again?");
+			System.out.println("\nTry again? \n y / n   : ");
 			board.tryAgain();
 			if(board.tryAgain().equals("y")) {
 				Game nextGame = new Game();
